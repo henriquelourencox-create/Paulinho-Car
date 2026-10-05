@@ -2,5 +2,7 @@
   "name": "Paulinho Car Service - Oficina Mecânica Zona Sul SP",
   "description": "Oficina mecânica no Parque Santo Antônio, Zona Sul de São Paulo. Manutenção e serviços automotivos com confiança, profissionalismo e preço justo. Nota 4,9 no Google.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
